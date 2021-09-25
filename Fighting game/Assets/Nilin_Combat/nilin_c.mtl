@@ -1,0 +1,54 @@
+# Blender MTL File: '3.blend'
+# Material Count: 4
+
+newmtl Material__1076
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TX_Ni_Nilin_Body_D.tga
+map_Disp TX_Ni_Nilin_Body_N.tga
+map_Ke TX_Ni_Nilin_Body_RGB.tga
+map_Ks TX_Ni_Nilin_Body_S.tga
+map_d TX_Ni_Nilin_Body_D.tga
+
+newmtl Material__1077
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TX_Ni_Nilin_Head_D.tga
+map_Disp TX_Ni_Nilin_Head_N.tga
+map_Ke TX_Ni_Nilin_Head_RGB.tga
+map_Ks TX_Ni_Nilin_Head_S.tga
+map_d TX_Ni_Nilin_Head_D.tga
+
+newmtl Material__1078
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TX_Ni_Nilin_Eye_eyelashes_D.tga
+map_d TX_Ni_Nilin_Eye_eyelashes_D.tga
+
+newmtl Material__1079
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TX_Ni_Nilin_Hair_D.tga
+map_Disp TX_Ni_Nilin_Hair_N.tga
+map_Ks TX_Ni_Nilin_Hair_S.tga
+map_d TX_Ni_Nilin_Hair_onebit_D.tga
